@@ -1,4 +1,4 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Introduction to Grafana Alerting
 
 To start the slide show:
 
